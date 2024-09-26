@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="B;a$PNC}2|OHa-[ySa7?" x="482" y="-47"></block><block type="device_button_event" id="q7UTpjWzcp[3|cWP8tW]" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="TGHkTW7L]J#py^T6{=kR"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_pause" id="pOc30_i^IXhbIsA#F%+L"><value name="pause"><shadow type="timePicker" id="lF*$rESgKSn@nB49RE#o"><field name="ms">100</field></shadow></value></block></next></block></statement></block><block type="device_button_event" id="Krlp;8m2s_`j`eqg;0+Z" x="443" y="174"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="yatsEa6AOs5)^ac9|s8x"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        # . # . # 
+        . . . . .
+        `</field><next><block type="device_pause" id="COU{QiRZUGubO:9Md~%R"><value name="pause"><shadow type="timePicker" id="AfH3DbkjTrj!#Cb+Rv~G"><field name="ms">100</field></shadow></value></block></next></block></statement></block><block type="device_button_event" id="UmtZ@Y`vH?QL8wN14.ph" x="31" y="401"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="cpg-oti-YZ`OZl+~_vin"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field></block></statement></block><block type="device_show_leds" id="E|n?1}LleVk]sq;l.P(h" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="323" y="755"><field name="LEDS">`
+        . . . . . 
+        . . # # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="tUu4bO].K?_bt@b37o|_" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED"><value name="pause"><shadow type="timePicker" id=")3,m2*q]0|R92@!+wkbQ" disabled-reasons="MANUALLY_DISABLED"><field name="ms">100</field></shadow></value></block></next></block></xml>
